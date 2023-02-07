@@ -1,2 +1,2 @@
 def main():
-    pass
+    print('Everything is OK')
