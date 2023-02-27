@@ -2,4 +2,5 @@ def check_root_full():
     # returns true
     return True
 
-print("ho hello la")
+for i in range(10):
+    print("ho hello la")
