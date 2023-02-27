@@ -3,4 +3,4 @@ def check_root_full():
     return True
 
 for i in range(10):
-    print("ho hello la git2")
+    print("ho hello la git2 y git1")
